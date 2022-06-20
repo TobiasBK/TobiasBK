@@ -2,7 +2,7 @@
 
 My name's Tobias. I like Ethereum blockchain stuff.
 
-- 📫 You can reach me on Twitter.
+📫 You can reach me on Twitter.
 
 <!--
 **TobiasBK/TobiasBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
