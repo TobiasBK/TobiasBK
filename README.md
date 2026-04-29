@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name's Tobias. I like Ethereum blockchain stuff.
+My name's Tobias. I like blockchain stuff.
 
 📫 You can reach me on Twitter.
 
